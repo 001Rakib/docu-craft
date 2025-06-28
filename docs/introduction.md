@@ -1,10 +1,10 @@
 ---
 title: "Introduction"
-date: "2025-06-27"
+date: "2024-02-12"
 parent: null
 order: 1
-author: "Rakib Hasan"
-category: "General"
+author: Alex B
+category: General
 tags: ["intro", "getting-started"]
 ---
 
