@@ -3,7 +3,7 @@ title: "Introduction"
 date: "2024-02-12"
 parent: null
 order: 1
-author: Alex B
+author: Alex
 category: General
 tags: ["intro", "getting-started"]
 ---

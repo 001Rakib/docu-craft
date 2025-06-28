@@ -20,7 +20,6 @@ const Landing = () => {
                 <Link
                   href="/docs/introduction"
                   className="inline-flex justify-center rounded-lg bg-slate-900 px-4 py-3 text-sm font-semibold text-white hover:bg-slate-700"
-                  target="_blank"
                 >
                   <span>Get Started</span>
                 </Link>
